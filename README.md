@@ -8,6 +8,8 @@ Inoltre, l'applicazione offre la possibilità di salvare il numero attuale di pa
 
 Questa applicazione può essere utile per varie situazioni in cui è necessario tenere traccia del numero di persone presenti, come il trasporto pubblico, gli eventi o qualsiasi altra attività che richiede il monitoraggio del flusso di persone.
 
+Per vedere il programma in funzione: https://irenemacchi01.github.io/passenger-counter/
+
 
 
 
